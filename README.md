@@ -25,41 +25,41 @@ Habibi Foods is a streamlined online food ordering system designed to enable res
 
 ## User Login Page
 
-![Food Ordering Login Page](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/c439309c-fdd9-4631-acbd-828829719618)
+![Food Ordering Login Page]<img width="1915" height="897" alt="Image" src="https://github.com/user-attachments/assets/1ee4578a-02aa-458d-a131-936cf5c1a5b1" />
 
 ## Menu Page
-![Food Ordering Menu Page](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/70e8413e-e3bb-479a-8ad6-760129f5a56c)
-![Food Ordering Menu Page 1](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/dcb8eb6b-63f1-43cb-ab5f-61132195eff5)
+![Food Ordering Menu Page]<img width="1895" height="895" alt="Image" src="https://github.com/user-attachments/assets/fb02d413-b237-490a-a208-63a50764a7a2" />
+![Food Ordering Menu Page 1]<img width="1882" height="903" alt="Image" src="https://github.com/user-attachments/assets/dbe40bdd-559e-4767-ac01-adfbef66bf14" />
 
 ## Add to Cart
 
 
-![Food Ordering Add to Cart Page](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/8e31d6c6-252a-479f-bac1-2f05d603b220)
+![Food Ordering Add to Cart Page]<img width="1919" height="895" alt="Image" src="https://github.com/user-attachments/assets/60b577a4-1e03-47ec-9ca5-7162ed79df4b" />
 
 ## Payment Page
 
 
-![Food Ordering Payment Page](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/6468fc25-9d6e-425e-b453-5c823b5f85d2)
+![Food Ordering Payment Page]<img width="1918" height="906" alt="Image" src="https://github.com/user-attachments/assets/564eaecf-0c9b-41bb-9fd6-50eda05669bc" />
 
 ## Restaurant Login Page
 
 
-![Food Ordering Restaurant Login](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/14886ede-8d7a-47d8-960c-e57afe6cbab8)
+![Food Ordering Restaurant Login]<img width="1891" height="895" alt="Image" src="https://github.com/user-attachments/assets/486a5580-d356-4568-8a21-d06662bbaad5" />
 
 ## Restaurant Add Menu Page 
 
 
-![Food Ordering Add Menu Page](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/667a9692-032d-4b8f-8754-0d834ee273df)
+![Food Ordering Add Menu Page]<img width="1881" height="891" alt="Image" src="https://github.com/user-attachments/assets/b3d6c90d-7dbb-42c1-b131-a35fa260c19b" />
 
 ## Contact Us Page
 
 
-![Food Ordering Contact](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/1798e89a-f88e-45e2-b305-911a5cc29cce)
+![Food Ordering Contact]<img width="1916" height="889" alt="Image" src="https://github.com/user-attachments/assets/6c1d1072-1bd8-4d11-8aa2-fe8ca455e207" />
 
 ## Feeback Page
 
 
-![Food Ordering Feeback](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/c3ef9ef8-63fe-4d43-af48-081d2ef3af2f)
+![Food Ordering Feeback]<img width="1886" height="897" alt="Image" src="https://github.com/user-attachments/assets/15d7dc2a-bf57-4742-881d-9e747165844e" />
 
 ## Future Plans
 
